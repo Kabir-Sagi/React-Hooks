@@ -1,0 +1,48 @@
+                        React Hooks
+                        ===========
+
+Pre-Requiste:
+ ISmart Edu Tech
+React 
+map
+JSON Object
+State 
+props 
+props drilling
+functional component 
+class component 
+lifecycle methods in class component 
+refernce 
+context 
+routing in react 
+
+HTML 
+CSS 
+JS 
+BS
+===========================================================
+
+Topics:
+
+REACT HOOKS 
+REDUX 
+REDUX THUNK 
+REDUX SAGA 
+REDUX FORMS 
+=======================================================
+
+HOOKS ARE NOTHING BUT SPECIAL FUNCTIONS 
+  useState() : It helps to maintain state in functional component
+
+  useEffect() : 
+
+  componentDidMount 
+  componentDidUpdate
+  componentWillUnmount
+
+   useEffect(()=> {
+       ----
+       return () => {
+            
+       }
+   })
